@@ -1,0 +1,389 @@
+[
+    {
+        "space_before": null, 
+        "indent": "CENTER", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": 20.0, 
+                "text": "The Guide for Writing Word Documents in Microsoft Word for EasyChair Publications", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": "Symbola", 
+                "style_font_bold": "bold", 
+                "style_font_name": "Symbola"
+            }
+        ]
+    }, 
+    {
+        "space_before": null, 
+        "indent": "CENTER", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": 20.0, 
+                "text": "", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": "Symbola", 
+                "style_font_bold": "bold", 
+                "style_font_name": "Symbola"
+            }
+        ]
+    }, 
+    {
+        "space_before": null, 
+        "indent": "CENTER", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": 11.0, 
+                "text": "Andrei\u00a0Voronkov", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": 11.0, 
+                "text": "1,21", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": 11.0, 
+                "text": " and\u00a0Kry\u0161tof Hoder", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": 11.0, 
+                "text": "12", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": null, 
+        "indent": "CENTER", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": null, 
+        "indent": "LEFT", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": 13.0, 
+                "text": "1 EasyChair", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": null, 
+        "indent": "RIGHT", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": 13.0, 
+                "text": "2 University of Manchester, Manchester, U.K.", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": null, 
+        "indent": "RIGHT", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": null, 
+        "indent": "RIGHT", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": null, 
+        "indent": "RIGHT", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": 13.0, 
+                "text": "", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": null, 
+        "indent": "CENTER", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": 13.0, 
+                "text": "andrei@voronkov.com, ", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": "FreeMono", 
+                "style_font_bold": "None", 
+                "style_font_name": "FreeMono"
+            }
+        ]
+    }, 
+    {
+        "space_before": null, 
+        "indent": "CENTER", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": null, 
+        "indent": "CENTER", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": null, 
+        "indent": "CENTER", 
+        "first_line_indent": null, 
+        "space_after": null, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": 5.65, 
+        "indent": "", 
+        "first_line_indent": null, 
+        "space_after": 8.5, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": 13.0, 
+                "text": "1.", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "bold", 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": 13.0, 
+                "text": " ", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": 13.0, 
+                "text": "Abstract", 
+                "style_font_underline": "underline", 
+                "style_font_italic": "italic", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": 5.65, 
+        "indent": "", 
+        "first_line_indent": null, 
+        "space_after": 8.5, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": 13.0, 
+                "text": "&emsp;&emsp;&emsp;In order to ease the lives of authors, editors, and trees, we present a manual and an example of the use of Microsoft Word and similar tools for creating documents for EasyChair-based electronic and on-paper publishing in the EPiC Series and Kalpa Publications series.", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": 5.65, 
+        "indent": "", 
+        "first_line_indent": null, 
+        "space_after": 8.5, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": 5.65, 
+        "indent": "", 
+        "first_line_indent": null, 
+        "space_after": 8.5, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": 13.0, 
+                "text": "1.", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "bold", 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": 13.0, 
+                "text": " ", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": 13.0, 
+                "text": "Introduction", 
+                "style_font_underline": "underline", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "space_before": 5.65, 
+        "indent": "", 
+        "first_line_indent": null, 
+        "space_after": 8.5, 
+        "style_name": "Normal", 
+        "data": [
+            {
+                "style_font_size": 13.0, 
+                "text": "&emsp;&emsp;&emsp;The styles and parameters of this guide are designed for compliance with the requirements for publication in two EasyChair series: the EPiC Series and Kalpa Publications [CITATION Vor04 \\l 1033 ]. EasyChair is a conference management system that is flexible, easy to use, and has many features to make it suitable for various conference models. It is currently probably the most commonly used conference management system [ CITATION Vor04 \\l 1033 ], serving thousands of conferences every year.", 
+                "style_font_underline": "None", 
+                "style_font_italic": "None", 
+                "style_name": null, 
+                "style_font_bold": "None", 
+                "style_font_name": null
+            }
+        ]
+    }
+]

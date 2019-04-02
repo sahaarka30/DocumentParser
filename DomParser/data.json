@@ -1,0 +1,4959 @@
+[
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Guide for ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Writing ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Word ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Docu", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "ments", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " in ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Microsoft Word", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " for ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "EasyChair ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Publication", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "s", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Andrei\u00a0", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Voronkov", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "1", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ",2", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "footnote reference", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "and\u00a0", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Kry", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "\u0161", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "tof", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " Hoder", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "1", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "footnote reference", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "1", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "EasyChair", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "2", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "University", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " of Manchester, Manchester, U.K.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "andrei@voronkov.com", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Monospaced", 
+                "style_font_bold": null, 
+                "style_font_name": "Courier"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Monospaced", 
+                "style_font_bold": null, 
+                "style_font_name": "Courier"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "hoderk", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Monospaced", 
+                "style_font_bold": null, 
+                "style_font_name": "Courier"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "@cs.man.ac.uk", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Monospaced", 
+                "style_font_bold": null, 
+                "style_font_name": "Courier"
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Abstract", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "In order to ease the lives of authors, editors, and trees, we present a", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " manual and an example of the use of Microsoft Word", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " and similar tools", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " for creating documents ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "for EasyChair-based electronic and on-paper publishing ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "in the ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "EPiC", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " Series", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " and Kalpa", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " Publications series", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ".", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Intr", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "o", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "duction", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The styles and parameters of this ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "guide", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " are designed for compliance with the requirements for publication in", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " two EasyChair series:", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " the ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " and ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": true, 
+                "style_font_italic": null, 
+                "style_name": "Hyperlink", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "EasyChair is a ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "conference management system that is flexible, easy to use, and has many features to make it suitable for various conference models. It is currently probably the most commonly used c", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "onference management system ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", serving thousands of conferences every year.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "EasyChair accepts documents written in any of the following formats:", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "LaTeX", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ";", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Word documents (.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "docx", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "), which can be produced by Microsoft Word.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "This guide explains how to produce the ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "docx", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " format in Microsoft Word. To achieve high quality of volumes, both ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "LaTeX", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " and Word documents should have the same layout and similar styles. This guide is provided for the users of Microsoft Word and describes EasyChair style version 3.4.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " The current version was", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " wri", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "tten on March", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " 3", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", 2017", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ".", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "If you already prepared your paper using a different style, you can find it very hard to conform to the EasyChair style", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". In this case, read Section ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "7", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " of this document.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Document Header", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The empty space on top of the first page, just before the title, will be reserved for a page header containing ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "the EasyChair ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "logos and the volume information. This header will be added to the article when you submit it to EasyChair. ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "You cannot control this header placement and for this reason should not try to change vertical spacing on the first page. If by mistake you removed the empty space, you can restore it as follows. Place the cursor on the very first line of your document (that is, the first line of the title), select Format -> Paragraph in the Microsoft Word menu and set the spaci", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "ng before the paragraph to 94pt and after to 15pt.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Styles", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "To produce a document complying ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "with the EasyChair ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "style you can simply take this guide and modify it. Several Word document styles are defined and used in this guide. To apply these styles in Microsoft Word you can use the Formatting Palette. The first line should contain the title of the document and be in the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Title", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". This line should be followed by a line in the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Authors", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "which specifies authors of the publication, separated by commas, except for the last author which is separated from the rest of the authors by an \u201cand\u201d. Next to each author there may be a super-script number linking the author to an organization (see above) and a footnote specifying the role of the author in preparation of the publication.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The author line should be followed by lines in the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Institute", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ",", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " which provide the organizations with which the authors are affiliated. After each institute there are contact details of the authors in the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Monospaced", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ".", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The abstract should begin with a line in the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Abstract title", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "containing the word \u201cAbstract\u201d, and the abstract itself should use the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Abstract", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ".", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Styles ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "for", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " the ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Article Body", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Section headers should use the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Section", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", while subsection headers use the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Subsection", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". For example, this text is part of Section 2 (Styles) and Subsection 2.1 (Styles for the Article Body).", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The main text of the document should be written using the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Normal", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". For mono-spaced parts of the text (such as source code listings) we provide the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Monospaced", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". For a sans serif font, use the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Sans-Serif", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". In this guide, we use the sans serif style for the names of Word styles.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "While section headers should use the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Section", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", the header of the References section should be in the style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "References", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". This style is similar to the style", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Section", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", but it is not numbered, again to resemble the EasyChair ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "LaTeX", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " style, including its ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "EPiC", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Monospaced", 
+                "style_font_bold": null, 
+                "style_font_name": "Courier"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " option.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Adding Citations", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "For ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "citations it is recommended that you use the bibliography mechanisms of Microsoft Word or other tools able to process ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "docx", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " documents. In Microsoft Word, commands for inserting citations are located at the ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Document Elements", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " tab of the ribbon control in the section ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "References", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". Clicking the ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Manage ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "button opens a toolbox, which allows you to add referenced publications and to insert them at the position of the cursor by double-clicking on them. If you use Microsoft Word for Mac, open the main toolbox and select the ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Citation", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " tab instead. From there you can add and insert referenced publications as in other versions of Word. ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The references (or", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " the", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " bibliography) section of the article is created by clicking on the ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Bibliography", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " button in the ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "References", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " section of the ribbon control", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " mentioned above", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "(or under ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Bibliographies", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " in the ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Document Elements", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " tab of the ribbon control in Microsoft Word for Mac). ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "After inserting this section, the style of ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "its", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " header should be set to ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "References", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Sans-Serif", 
+                "style_font_bold": null, 
+                "style_font_name": "Helvetica"
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ".", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "automatically generated References section may need to be explicitly updated to reflect further changes done in the bibliography. When clicking on the automatically generated text of the section, a ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Bibliography", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " button will appear in the text and offer a menu with an update command", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ".", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " The s", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "tyle used for citations in this template is APA.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " You are free to use any other style.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "This is an example of the use of citations and references", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ":", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": 180340, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Not much is written yet about EasyChair. Apart from the Wikipedia article that comes and goes", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " and contains a sketchy and questionable material", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", there is an abstract of a keynote talk on EasyChair presented at the 2014 Automated Software Engineering Conference ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " and a guide for writing documents for EasyChair authors ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The references themselves are placed at the end of this document.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Adding Figures", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " and Tables", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "In Microsoft Word, pictures", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " can be inserted into the document by going to Insert->Picture->From File\u2026 ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "on the menu ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "and selecting the desired file", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". To simplify working with the image, it is recommended that you insert the picture into a text box.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "In order to", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " make it into a figure and", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " add a caption, select the image by clicking on it and then go to Insert->Caption\u2026 ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "(", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "or", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " Insert->Reference->Caption", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "\u2026", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " in earlier versions of Microsoft Word). ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "From here, you can select the position of the caption (", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "this should be set to", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " below the image) and edit the text within it. ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Make sure that \u201cFigure\u201d is selected in the \u201cLabel\u201d", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " drop-down ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "list", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " and cl", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "ick \u201cOK\u201d", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " to generate it. Captions are numbered automatically in ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "sequential", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " order.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Figure ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "1", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " i", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "s an example of a captioned image. ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "If you have a table in your document, captions can be created in the same way, just select \u201cTable\u201d from the \u201cLabel\u201d drop-down list instead. ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Table ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "1", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " shows an example of a table of data that was conveniently available. ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "In order to cross-reference a figure or table in your text, go to Insert->Cross-reference\u2026 (", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "or", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " Insert->Reference->Cross-reference\u2026 in earlier versions) from the Word menu. Select the type of object you are referencing in the \u201cReference type\u201d drop-down list, and then select which object you are referencing under \u201cFor which caption\u201d. Ensure that the \u201cInsert as hyperlink\u201d box is ticked. You can choose how much of the caption is inserted in the \u201cInsert reference to\u201d drop-menu. ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "For example, to generate this cross-reference for", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Figure ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "1", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", \u201cOnly label and number\u201d", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " was selected.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "image": "/word/media/image1.png"
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "EasyChair Style Requirements", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "layout settings of this ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "guide", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " are set to conform to the requirements of ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "both ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "the ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "EPiC", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " Series ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "and Kalpa Publications", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "I", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "f the settings are altered, the requirements below need to be ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "kept in mind", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", since", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "papers deviating from the formatting stan", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "dards will ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "not be accepted for printing", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ".", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " This section is mostly for your information since the best way to produce a conforming document is by modifying this guide.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "default paper size is US letter, but A4", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " or letter ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "sizes are ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "also ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "acceptable.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "The print area for ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "all of the acceptable paper sizes", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " is 145x224 mm. This size has been selected to allow for inexpensive printing using our current print-on-demand publisher.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The base font is ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Times New Roman", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", and the sans-serif font is Helvetica. The base font size is 10pt. If you use any other font size, there is no guarantee that the produced document will look nice or f", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "it into our standard page size.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "PNG, JPG, and PDF images are supported. If the papers are designed for publishing in print, the images should be at least 300dpi in resolution.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "You will see if your article deviates from the EasyChair style page margins when you ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "upload your article to", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " EasyChair.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Bug Reports", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Please report ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "bugs, errors, and omissions you find ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "in this ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "guide", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " to its current main", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "tainer, Andrei Voronkov, at andrei@", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "easychair.org", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". Any const", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "ructive feedback is ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "wel", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "come.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "What to do if You Already C", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "reat", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "ed a Document Using ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "a ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Different S", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "tyle", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "If you have produced your paper using different styles than the ones defined here, your document can still be accepted by EasyChair provided it has got the correct paper size", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", page margins", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "and", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "the ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "t", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "itle style", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The paper size", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " can be set from the tab ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "File", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "> ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Page Setup", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "> Paper Size", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ":", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "image": "/word/media/image2.png"
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "T", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "o set up t", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "he page margins", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", go the same", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " screen", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " (", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "File", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "> ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Page Setup", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ") and then", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " choose Microsoft Word from the topmost box", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ":", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "image": "/word/media/image3.png"
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "You", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "should then", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "choose ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Margins", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " and", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " set up the margins as follows:", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "image": "/word/media/image4.png"
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "On the current screen, the top, bottom, left and right margins are given in ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "inches", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", your version of Word may well give the measurements in the metric system", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ".", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "In this case you should set up the margins in centimeters as follows", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ":", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "image": "/word/media/image5.tiff"
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " paper title s", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "hould ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "be put on the very top of the first page and have spacing of 94", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "pt before and ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "1", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "5", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "pt after", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " in order to e", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "nable ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "EasyChair to", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " add volume information above it", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " as ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "described", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " in Section 2 above", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". The correct spacing ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "can be set as follows:", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "first select ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "your title", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", then go to ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Format", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "> ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Paragraph", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ">", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Indents and ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Spacing", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "In the section ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Spacing", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ": ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "set the values for ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "Before", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " to ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "94pt", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " and", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "After", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "to ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "15pt:", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "image": "/word/media/image6.png"
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "If the above instructions are followed, this is how the first page of a paper will look with the EasyChair ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "EPiC", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " Series ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "header included:", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "image": "/word/media/image7.png"
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "The Kalpa Publications header will be different but use the same space. ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "In case there is not enough space for the header, the title of the paper will be only partially ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "visible", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", as shown below:", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "image": "/word/media/image8.png"
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "You can check whether you set page margins and title spacing correctly when you upload your paper to EasyChair (read the next section).", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Submitting Your", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " Article ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "T", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "hrough ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "EasyChair", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "This section is intended only for the authors and editors of EasyChair proceedings", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " volumes", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ". When you prepare an article for ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "such a volume", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", it should be submitted through EasyChair. EasyChair automates the submission process as much as possible and goes to a great ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "depth", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " to ensure that your article can be published and printed. Publication for EasyChair", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "means much more than just putting a PDF of your article o", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "nline. It collects meta-", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "information about the article to classify it, find similar articles, make it easily searchable, and index it in vari", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "ous Web services such as", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " Microsoft Academic Search or", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " DBLP.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Please note that, when your conference is hosted on EasyChair, your article can be submitted twice: first for ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "the preliminary submission and ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "reviewing and then for inclusion in the proceedings. You will see that EasyChair has different environments and different interface", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "s", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " for these two stages.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " You can tell which one you are in by your role displayed in the upper left corner of the screen. For the submission phase, it should display \u201cauthor\u201d and for the proceedings stage", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " \u201cproceedings author\u201d. These two environments will look like this:", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "image": "/word/media/image9.jpeg"
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "and", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "image": "/word/media/image10.png"
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }, 
+    {
+        "first_line_indent": 0, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "If you are asked to submit your final version a", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "nd you only see the author role", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ", then something is very wrong and you should contact your conference organizers or volume editors.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Submitting the Article", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " fo", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "r", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " Reviewing", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "It is up to your conference in what format you submit your article. Most likely, they will simply ask for a PDF file. You will see the list of accepted file types on the EasyChair submission page. Nonetheless, if your conference will publish proceedings ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "as an ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "EPiC", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " or a Kalpa", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " volume, we recommend ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "that you", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " use the EasyChair style for the sub", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "mission too. The reason is that otherwise, if your paper is accepted for the proceedings, you will have to reformat it using the EasyChair style ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "and this can be time-consuming.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " If you need to submit a PDF document, you can convert your ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "docx", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " document to PDF by choosing File->Save As\u2026 in your Word menu.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "Submitting the Final Version for the Proceedings", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": [
+            {
+                "style_font_size": null, 
+                "text": "EasyChair", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " will ask you to submit two documents: the original ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "docx", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " document and the PDF document. ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "The PDF document must be obtained by saving your Word ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "docx", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " document as", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " a", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " PDF.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "After your submission", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": ",", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " EasyChair will show your PDF document with a frame around it to ensure that you did not change the style so that the content of your document ", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": "goes", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }, 
+            {
+                "style_font_size": null, 
+                "text": " out of the style margins. It will also ask you to enter some meta-data about your article, such as the title, list of authors, and the abstract.  This meta-data is very important since it will appear on the Web page where your article is published, therefore EasyChair will ask you to check that it is consistent with the data in the article itself.", 
+                "style_font_underline": null, 
+                "style_font_italic": null, 
+                "style_name": "Default Paragraph Font", 
+                "style_font_bold": null, 
+                "style_font_name": null
+            }
+        ]
+    }, 
+    {
+        "first_line_indent": null, 
+        "left_indent": null, 
+        "right_indent": null, 
+        "data": []
+    }
+]

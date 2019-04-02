@@ -1,0 +1,1880 @@
+[
+    {
+        "para_content": [
+            {
+                "text": "The"
+            },
+            {
+                "text": "Guide for"
+            },
+            {
+                "text": "Writing"
+            },
+            {
+                "text": "Word"
+            },
+            {
+                "text": "Docu"
+            },
+            {
+                "text": "ments"
+            },
+            {
+                "text": "in"
+            },
+            {
+                "text": "Microsoft Word"
+            },
+            {
+                "text": "for"
+            },
+            {
+                "text": "EasyChair"
+            },
+            {
+                "text": "Publication"
+            },
+            {
+                "text": "s"
+            }
+        ],
+        "para_index": 0
+    },
+    {
+        "para_content": [
+            {
+                "text": "Andrei"
+            },
+            {
+                "text": "Voronkov"
+            },
+            {
+                "text": "1"
+            },
+            {
+                "text": ",2"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "and"
+            },
+            {
+                "text": "Kry"
+            },
+            {
+                "text": "\u0161"
+            },
+            {
+                "text": "tof"
+            },
+            {
+                "text": "Hoder"
+            },
+            {
+                "text": "1"
+            },
+            {
+                "text": null
+            }
+        ],
+        "para_index": 1
+    },
+    {
+        "para_content": [
+            {
+                "text": "1"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "EasyChair"
+            }
+        ],
+        "para_index": 2
+    },
+    {
+        "para_content": [
+            {
+                "text": "2"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "University"
+            },
+            {
+                "text": "of Manchester, Manchester, U.K."
+            }
+        ],
+        "para_index": 3
+    },
+    {
+        "para_content": [
+            {
+                "text": "andrei@voronkov.com"
+            },
+            {
+                "text": ","
+            },
+            {
+                "text": "hoderk"
+            },
+            {
+                "text": "@cs.man.ac.uk"
+            }
+        ],
+        "para_index": 4
+    },
+    {
+        "para_content": [
+            {}
+        ],
+        "para_index": 5
+    },
+    {
+        "para_content": [
+            {
+                "text": "In order to ease the lives of authors, editors, and trees, we present a"
+            },
+            {
+                "text": "manual and an example of the use of Microsoft Word"
+            },
+            {
+                "text": "and similar tools"
+            },
+            {
+                "text": "for creating documents"
+            },
+            {
+                "text": "for EasyChair-based electronic and on-paper publishing"
+            },
+            {
+                "text": "in the"
+            },
+            {
+                "text": "EPiC"
+            },
+            {
+                "text": "Series"
+            },
+            {
+                "text": "and Kalpa"
+            },
+            {
+                "text": "Publications series"
+            },
+            {
+                "text": "."
+            }
+        ],
+        "para_index": 6
+    },
+    {
+        "para_content": [
+            {
+                "text": "Intr"
+            },
+            {
+                "text": "o"
+            },
+            {
+                "text": "duction"
+            }
+        ],
+        "para_index": 7
+    },
+    {
+        "para_content": [
+            {
+                "text": "The styles and parameters of this"
+            },
+            {
+                "text": "guide"
+            },
+            {
+                "text": "are designed for compliance with the requirements for publication in"
+            },
+            {
+                "text": "two EasyChair series:"
+            },
+            {
+                "text": "the"
+            },
+            {
+                "text": "and"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "."
+            },
+            {
+                "text": "EasyChair is a"
+            },
+            {
+                "text": "conference management system that is flexible, easy to use, and has many features to make it suitable for various conference models. It is currently probably the most commonly used c"
+            },
+            {
+                "text": "onference management system"
+            },
+            {
+                "text": ", serving thousands of conferences every year."
+            }
+        ],
+        "para_index": 8
+    },
+    {
+        "para_content": [
+            {}
+        ],
+        "para_index": 9
+    },
+    {
+        "para_content": [
+            {
+                "text": "LaTeX"
+            },
+            {
+                "text": ";"
+            }
+        ],
+        "para_index": 10
+    },
+    {
+        "para_content": [
+            {
+                "text": "Word documents (."
+            },
+            {
+                "text": "docx"
+            },
+            {
+                "text": "), which can be produced by Microsoft Word."
+            }
+        ],
+        "para_index": 11
+    },
+    {
+        "para_content": [
+            {
+                "text": "This guide explains how to produce the"
+            },
+            {
+                "text": "docx"
+            },
+            {
+                "text": "format in Microsoft Word. To achieve high quality of volumes, both"
+            },
+            {
+                "text": "LaTeX"
+            },
+            {
+                "text": "and Word documents should have the same layout and similar styles. This guide is provided for the users of Microsoft Word and describes EasyChair style version 3.4."
+            },
+            {
+                "text": "The current version was"
+            },
+            {
+                "text": "wri"
+            },
+            {
+                "text": "tten on March"
+            },
+            {
+                "text": "3"
+            },
+            {
+                "text": ", 2017"
+            },
+            {
+                "text": "."
+            }
+        ],
+        "para_index": 12
+    },
+    {
+        "para_content": [
+            {
+                "text": "If you already prepared your paper using a different style, you can find it very hard to conform to the EasyChair style"
+            },
+            {
+                "text": ". In this case, read Section"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "7"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "of this document."
+            }
+        ],
+        "para_index": 13
+    },
+    {
+        "para_content": [
+            {
+                "text": null
+            },
+            {
+                "text": "Document Header"
+            }
+        ],
+        "para_index": 14
+    },
+    {
+        "para_content": [
+            {
+                "text": "The empty space on top of the first page, just before the title, will be reserved for a page header containing"
+            },
+            {
+                "text": "the EasyChair"
+            },
+            {
+                "text": "logos and the volume information. This header will be added to the article when you submit it to EasyChair."
+            }
+        ],
+        "para_index": 15
+    },
+    {
+        "para_content": [
+            {
+                "text": "You cannot control this header placement and for this reason should not try to change vertical spacing on the first page. If by mistake you removed the empty space, you can restore it as follows. Place the cursor on the very first line of your document (that is, the first line of the title), select Format -> Paragraph in the Microsoft Word menu and set the spaci"
+            },
+            {
+                "text": "ng before the paragraph to 94pt and after to 15pt."
+            }
+        ],
+        "para_index": 16
+    },
+    {
+        "para_content": [
+            {}
+        ],
+        "para_index": 17
+    },
+    {
+        "para_content": [
+            {
+                "text": "To produce a document complying"
+            },
+            {
+                "text": "with the EasyChair"
+            },
+            {
+                "text": "style you can simply take this guide and modify it. Several Word document styles are defined and used in this guide. To apply these styles in Microsoft Word you can use the Formatting Palette. The first line should contain the title of the document and be in the style"
+            },
+            {
+                "text": "Title"
+            },
+            {
+                "text": ". This line should be followed by a line in the style"
+            },
+            {
+                "text": "Authors"
+            },
+            {
+                "text": ","
+            },
+            {
+                "text": "which specifies authors of the publication, separated by commas, except for the last author which is separated from the rest of the authors by an \u201cand\u201d. Next to each author there may be a super-script number linking the author to an organization (see above) and a footnote specifying the role of the author in preparation of the publication."
+            }
+        ],
+        "para_index": 18
+    },
+    {
+        "para_content": [
+            {
+                "text": "The author line should be followed by lines in the style"
+            },
+            {
+                "text": "Institute"
+            },
+            {
+                "text": ","
+            },
+            {
+                "text": "which provide the organizations with which the authors are affiliated. After each institute there are contact details of the authors in the style"
+            },
+            {
+                "text": "Monospaced"
+            },
+            {
+                "text": "."
+            }
+        ],
+        "para_index": 19
+    },
+    {
+        "para_content": [
+            {
+                "text": "The abstract should begin with a line in the style"
+            },
+            {
+                "text": "Abstract title"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "containing the word \u201cAbstract\u201d, and the abstract itself should use the style"
+            },
+            {
+                "text": "Abstract"
+            },
+            {
+                "text": "."
+            },
+            {
+                "text": null
+            }
+        ],
+        "para_index": 20
+    },
+    {
+        "para_content": [
+            {
+                "text": "Styles"
+            },
+            {
+                "text": "for"
+            },
+            {
+                "text": "the"
+            },
+            {
+                "text": "Article Body"
+            }
+        ],
+        "para_index": 21
+    },
+    {
+        "para_content": [
+            {
+                "text": "Section headers should use the style"
+            },
+            {
+                "text": "Section"
+            },
+            {
+                "text": ", while subsection headers use the style"
+            },
+            {
+                "text": "Subsection"
+            },
+            {
+                "text": ". For example, this text is part of Section 2 (Styles) and Subsection 2.1 (Styles for the Article Body)."
+            }
+        ],
+        "para_index": 22
+    },
+    {
+        "para_content": [
+            {
+                "text": "The main text of the document should be written using the style"
+            },
+            {
+                "text": "Normal"
+            },
+            {
+                "text": ". For mono-spaced parts of the text (such as source code listings) we provide the style"
+            },
+            {
+                "text": "Monospaced"
+            },
+            {
+                "text": ". For a sans serif font, use the style"
+            },
+            {
+                "text": "Sans-Serif"
+            },
+            {
+                "text": ". In this guide, we use the sans serif style for the names of Word styles."
+            }
+        ],
+        "para_index": 23
+    },
+    {
+        "para_content": [
+            {
+                "text": "While section headers should use the style"
+            },
+            {
+                "text": "Section"
+            },
+            {
+                "text": ", the header of the References section should be in the style"
+            },
+            {
+                "text": "References"
+            },
+            {
+                "text": ". This style is similar to the style"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "Section"
+            },
+            {
+                "text": ", but it is not numbered, again to resemble the EasyChair"
+            },
+            {
+                "text": "LaTeX"
+            },
+            {
+                "text": "style, including its"
+            },
+            {
+                "text": "EPiC"
+            },
+            {
+                "text": "option."
+            }
+        ],
+        "para_index": 24
+    },
+    {
+        "para_content": [
+            {}
+        ],
+        "para_index": 25
+    },
+    {
+        "para_content": [
+            {
+                "text": "For"
+            },
+            {
+                "text": "citations it is recommended that you use the bibliography mechanisms of Microsoft Word or other tools able to process"
+            },
+            {
+                "text": "docx"
+            },
+            {
+                "text": "documents. In Microsoft Word, commands for inserting citations are located at the"
+            },
+            {
+                "text": "Document Elements"
+            },
+            {
+                "text": "tab of the ribbon control in the section"
+            },
+            {
+                "text": "References"
+            },
+            {
+                "text": ". Clicking the"
+            },
+            {
+                "text": "Manage"
+            },
+            {
+                "text": "button opens a toolbox, which allows you to add referenced publications and to insert them at the position of the cursor by double-clicking on them. If you use Microsoft Word for Mac, open the main toolbox and select the"
+            },
+            {
+                "text": "Citation"
+            },
+            {
+                "text": "tab instead. From there you can add and insert referenced publications as in other versions of Word."
+            }
+        ],
+        "para_index": 26
+    },
+    {
+        "para_content": [
+            {
+                "text": "The references (or"
+            },
+            {
+                "text": "the"
+            },
+            {
+                "text": "bibliography) section of the article is created by clicking on the"
+            },
+            {
+                "text": "Bibliography"
+            },
+            {
+                "text": "button in the"
+            },
+            {
+                "text": "References"
+            },
+            {
+                "text": "section of the ribbon control"
+            },
+            {
+                "text": "mentioned above"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "(or under"
+            },
+            {
+                "text": "Bibliographies"
+            },
+            {
+                "text": "in the"
+            },
+            {
+                "text": "Document Elements"
+            },
+            {
+                "text": "tab of the ribbon control in Microsoft Word for Mac)."
+            },
+            {
+                "text": "After inserting this section, the style of"
+            },
+            {
+                "text": "its"
+            },
+            {
+                "text": "header should be set to"
+            },
+            {
+                "text": "References"
+            },
+            {
+                "text": "."
+            }
+        ],
+        "para_index": 27
+    },
+    {
+        "para_content": [
+            {
+                "text": "The"
+            },
+            {
+                "text": "automatically generated References section may need to be explicitly updated to reflect further changes done in the bibliography. When clicking on the automatically generated text of the section, a"
+            },
+            {
+                "text": "Bibliography"
+            },
+            {
+                "text": "button will appear in the text and offer a menu with an update command"
+            },
+            {
+                "text": "."
+            },
+            {
+                "text": "The s"
+            },
+            {
+                "text": "tyle used for citations in this template is APA."
+            },
+            {
+                "text": "You are free to use any other style."
+            }
+        ],
+        "para_index": 28
+    },
+    {
+        "para_content": [
+            {
+                "text": "This is an example of the use of citations and references"
+            },
+            {
+                "text": ":"
+            }
+        ],
+        "para_index": 29
+    },
+    {
+        "para_content": [],
+        "para_index": 30
+    },
+    {
+        "para_content": [
+            {
+                "text": "Not much is written yet about EasyChair. Apart from the Wikipedia article that comes and goes"
+            },
+            {
+                "text": "and contains a sketchy and questionable material"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": ", there is an abstract of a keynote talk on EasyChair presented at the 2014 Automated Software Engineering Conference"
+            },
+            {
+                "text": "and a guide for writing documents for EasyChair authors"
+            }
+        ],
+        "para_index": 31
+    },
+    {
+        "para_content": [],
+        "para_index": 32
+    },
+    {
+        "para_content": [
+            {}
+        ],
+        "para_index": 33
+    },
+    {
+        "para_content": [
+            {
+                "text": "Adding Figures"
+            },
+            {
+                "text": "and Tables"
+            }
+        ],
+        "para_index": 34
+    },
+    {
+        "para_content": [
+            {
+                "text": "In Microsoft Word, pictures"
+            },
+            {
+                "text": "can be inserted into the document by going to Insert->Picture->From File\u2026"
+            },
+            {
+                "text": "on the menu"
+            },
+            {
+                "text": "and selecting the desired file"
+            },
+            {
+                "text": ". To simplify working with the image, it is recommended that you insert the picture into a text box."
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "In order to"
+            },
+            {
+                "text": "make it into a figure and"
+            },
+            {
+                "text": "add a caption, select the image by clicking on it and then go to Insert->Caption\u2026"
+            },
+            {
+                "text": "("
+            },
+            {
+                "text": "or"
+            },
+            {
+                "text": "Insert->Reference->Caption"
+            },
+            {
+                "text": "\u2026"
+            },
+            {
+                "text": "in earlier versions of Microsoft Word)."
+            },
+            {
+                "text": "From here, you can select the position of the caption ("
+            },
+            {
+                "text": "this should be set to"
+            },
+            {
+                "text": "below the image) and edit the text within it."
+            },
+            {
+                "text": "Make sure that \u201cFigure\u201d is selected in the \u201cLabel\u201d"
+            },
+            {
+                "text": "drop-down"
+            },
+            {
+                "text": "list"
+            },
+            {
+                "text": "and cl"
+            },
+            {
+                "text": "ick \u201cOK\u201d"
+            },
+            {
+                "text": "to generate it. Captions are numbered automatically in"
+            },
+            {
+                "text": "sequential"
+            },
+            {
+                "text": "order."
+            },
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "Figure"
+            },
+            {
+                "text": "1"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "i"
+            },
+            {
+                "text": "s an example of a captioned image."
+            }
+        ],
+        "para_index": 35
+    },
+    {
+        "para_content": [
+            {
+                "text": "If you have a table in your document, captions can be created in the same way, just select \u201cTable\u201d from the \u201cLabel\u201d drop-down list instead."
+            },
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "Table"
+            },
+            {
+                "text": "1"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "shows an example of a table of data that was conveniently available."
+            }
+        ],
+        "para_index": 36
+    },
+    {
+        "para_content": [
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "In order to cross-reference a figure or table in your text, go to Insert->Cross-reference\u2026 ("
+            },
+            {
+                "text": "or"
+            },
+            {
+                "text": "Insert->Reference->Cross-reference\u2026 in earlier versions) from the Word menu. Select the type of object you are referencing in the \u201cReference type\u201d drop-down list, and then select which object you are referencing under \u201cFor which caption\u201d. Ensure that the \u201cInsert as hyperlink\u201d box is ticked. You can choose how much of the caption is inserted in the \u201cInsert reference to\u201d drop-menu."
+            },
+            {
+                "text": "For example, to generate this cross-reference for"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "Figure"
+            },
+            {
+                "text": "1"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": ", \u201cOnly label and number\u201d"
+            },
+            {
+                "text": "was selected."
+            },
+            {
+                "embed": "rId11"
+            }
+        ],
+        "para_index": 37
+    },
+    {
+        "para_content": [],
+        "para_index": 38
+    },
+    {
+        "para_content": [
+            {}
+        ],
+        "para_index": 39
+    },
+    {
+        "para_content": [
+            {
+                "text": "The"
+            },
+            {
+                "text": "layout settings of this"
+            },
+            {
+                "text": "guide"
+            },
+            {
+                "text": "are set to conform to the requirements of"
+            },
+            {
+                "text": "both"
+            },
+            {
+                "text": "the"
+            },
+            {
+                "text": "EPiC"
+            },
+            {
+                "text": "Series"
+            },
+            {
+                "text": "and Kalpa Publications"
+            },
+            {
+                "text": "."
+            },
+            {
+                "text": "I"
+            },
+            {
+                "text": "f the settings are altered, the requirements below need to be"
+            },
+            {
+                "text": "kept in mind"
+            },
+            {
+                "text": ", since"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "papers deviating from the formatting stan"
+            },
+            {
+                "text": "dards will"
+            },
+            {
+                "text": "not be accepted for printing"
+            },
+            {
+                "text": "."
+            },
+            {
+                "text": "This section is mostly for your information since the best way to produce a conforming document is by modifying this guide."
+            }
+        ],
+        "para_index": 40
+    },
+    {
+        "para_content": [
+            {
+                "text": "The"
+            },
+            {
+                "text": "default paper size is US letter, but A4"
+            },
+            {
+                "text": "or letter"
+            },
+            {
+                "text": "sizes are"
+            },
+            {
+                "text": "also"
+            },
+            {
+                "text": "acceptable."
+            }
+        ],
+        "para_index": 41
+    },
+    {
+        "para_content": [
+            {
+                "text": null
+            },
+            {
+                "text": "The print area for"
+            },
+            {
+                "text": "all of the acceptable paper sizes"
+            },
+            {
+                "text": "is 145x224 mm. This size has been selected to allow for inexpensive printing using our current print-on-demand publisher."
+            }
+        ],
+        "para_index": 42
+    },
+    {
+        "para_content": [
+            {
+                "text": "The base font is"
+            },
+            {
+                "text": "Times New Roman"
+            },
+            {
+                "text": ", and the sans-serif font is Helvetica. The base font size is 10pt. If you use any other font size, there is no guarantee that the produced document will look nice or f"
+            },
+            {
+                "text": "it into our standard page size."
+            }
+        ],
+        "para_index": 43
+    },
+    {
+        "para_content": [
+            {},
+            {}
+        ],
+        "para_index": 44
+    },
+    {
+        "para_content": [
+            {
+                "text": "You will see if your article deviates from the EasyChair style page margins when you"
+            },
+            {
+                "text": "upload your article to"
+            },
+            {
+                "text": "EasyChair."
+            }
+        ],
+        "para_index": 45
+    },
+    {
+        "para_content": [
+            {}
+        ],
+        "para_index": 46
+    },
+    {
+        "para_content": [
+            {
+                "text": "Please report"
+            },
+            {
+                "text": "bugs, errors, and omissions you find"
+            },
+            {
+                "text": "in this"
+            },
+            {
+                "text": "guide"
+            },
+            {
+                "text": "to its current main"
+            },
+            {
+                "text": "tainer, Andrei Voronkov, at andrei@"
+            },
+            {
+                "text": "easychair.org"
+            },
+            {
+                "text": ". Any const"
+            },
+            {
+                "text": "ructive feedback is"
+            },
+            {
+                "text": "wel"
+            },
+            {
+                "text": "come."
+            }
+        ],
+        "para_index": 47
+    },
+    {
+        "para_content": [
+            {
+                "text": "What to do if You Already C"
+            },
+            {
+                "text": "reat"
+            },
+            {
+                "text": "ed a Document Using"
+            },
+            {
+                "text": "a"
+            },
+            {
+                "text": "Different S"
+            },
+            {
+                "text": "tyle"
+            }
+        ],
+        "para_index": 48
+    },
+    {
+        "para_content": [
+            {
+                "text": "If you have produced your paper using different styles than the ones defined here, your document can still be accepted by EasyChair provided it has got the correct paper size"
+            },
+            {
+                "text": ", page margins"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "and"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "the"
+            },
+            {
+                "text": "t"
+            },
+            {
+                "text": "itle style"
+            },
+            {
+                "text": "."
+            }
+        ],
+        "para_index": 49
+    },
+    {
+        "para_content": [
+            {
+                "text": "The paper size"
+            },
+            {
+                "text": "can be set from the tab"
+            },
+            {
+                "text": "File"
+            },
+            {
+                "text": ">"
+            },
+            {
+                "text": "Page Setup"
+            },
+            {
+                "text": "> Paper Size"
+            },
+            {
+                "text": ":"
+            },
+            {
+                "text": null
+            }
+        ],
+        "para_index": 50
+    },
+    {
+        "para_content": [],
+        "para_index": 51
+    },
+    {
+        "para_content": [
+            {},
+            {},
+            {
+                "embed": "rId12,"
+            }
+        ],
+        "para_index": 52
+    },
+    {
+        "para_content": [],
+        "para_index": 53
+    },
+    {
+        "para_content": [
+            {
+                "text": "T"
+            },
+            {
+                "text": "o set up t"
+            },
+            {
+                "text": "he page margins"
+            },
+            {
+                "text": ", go the same"
+            },
+            {
+                "text": "screen"
+            },
+            {
+                "text": "("
+            },
+            {
+                "text": "File"
+            },
+            {
+                "text": ">"
+            },
+            {
+                "text": "Page Setup"
+            },
+            {
+                "text": ") and then"
+            },
+            {
+                "text": "choose Microsoft Word from the topmost box"
+            },
+            {
+                "text": ":"
+            },
+            {
+                "text": null
+            }
+        ],
+        "para_index": 54
+    },
+    {
+        "para_content": [
+            {},
+            {},
+            {
+                "embed": "rId13,"
+            }
+        ],
+        "para_index": 55
+    },
+    {
+        "para_content": [],
+        "para_index": 56
+    },
+    {
+        "para_content": [
+            {
+                "text": "You"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "should then"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "choose"
+            },
+            {
+                "text": "Margins"
+            },
+            {
+                "text": "and"
+            },
+            {
+                "text": "set up the margins as follows:"
+            },
+            {
+                "text": null
+            }
+        ],
+        "para_index": 57
+    },
+    {
+        "para_content": [
+            {},
+            {},
+            {},
+            {
+                "embed": "rId14,"
+            }
+        ],
+        "para_index": 58
+    },
+    {
+        "para_content": [],
+        "para_index": 59
+    },
+    {
+        "para_content": [],
+        "para_index": 60
+    },
+    {
+        "para_content": [
+            {
+                "text": "On the current screen, the top, bottom, left and right margins are given in"
+            },
+            {
+                "text": "inches"
+            },
+            {
+                "text": ", your version of Word may well give the measurements in the metric system"
+            },
+            {
+                "text": "."
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "In this case you should set up the margins in centimeters as follows"
+            },
+            {
+                "text": ":"
+            }
+        ],
+        "para_index": 61
+    },
+    {
+        "para_content": [],
+        "para_index": 62
+    },
+    {
+        "para_content": [
+            {},
+            {},
+            {},
+            {
+                "embed": "rId15"
+            }
+        ],
+        "para_index": 63
+    },
+    {
+        "para_content": [],
+        "para_index": 64
+    },
+    {
+        "para_content": [
+            {
+                "text": "The"
+            },
+            {
+                "text": "paper title s"
+            },
+            {
+                "text": "hould"
+            },
+            {
+                "text": "be put on the very top of the first page and have spacing of 94"
+            },
+            {
+                "text": "pt before and"
+            },
+            {
+                "text": "1"
+            },
+            {
+                "text": "5"
+            },
+            {
+                "text": "pt after"
+            },
+            {
+                "text": "in order to e"
+            },
+            {
+                "text": "nable"
+            },
+            {
+                "text": "EasyChair to"
+            },
+            {
+                "text": "add volume information above it"
+            },
+            {
+                "text": "as"
+            },
+            {
+                "text": "described"
+            },
+            {
+                "text": "in Section 2 above"
+            },
+            {
+                "text": ". The correct spacing"
+            },
+            {
+                "text": "can be set as follows:"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "first select"
+            },
+            {
+                "text": "your title"
+            },
+            {
+                "text": ", then go to"
+            },
+            {
+                "text": "Format"
+            },
+            {
+                "text": ">"
+            },
+            {
+                "text": "Paragraph"
+            },
+            {
+                "text": ">"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "Indents and"
+            },
+            {
+                "text": "Spacing"
+            },
+            {
+                "text": "."
+            },
+            {
+                "text": "In the section"
+            },
+            {
+                "text": "Spacing"
+            },
+            {
+                "text": ":"
+            },
+            {
+                "text": "set the values for"
+            },
+            {
+                "text": "Before"
+            },
+            {
+                "text": "to"
+            },
+            {
+                "text": "94pt"
+            },
+            {
+                "text": "and"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "After"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "to"
+            },
+            {
+                "text": "15pt:"
+            }
+        ],
+        "para_index": 65
+    },
+    {
+        "para_content": [
+            {},
+            {},
+            {
+                "embed": "rId16,"
+            }
+        ],
+        "para_index": 66
+    },
+    {
+        "para_content": [],
+        "para_index": 67
+    },
+    {
+        "para_content": [
+            {
+                "text": "If the above instructions are followed, this is how the first page of a paper will look with the EasyChair"
+            },
+            {
+                "text": "EPiC"
+            },
+            {
+                "text": "Series"
+            },
+            {
+                "text": "header included:"
+            }
+        ],
+        "para_index": 68
+    },
+    {
+        "para_content": [
+            {},
+            {},
+            {
+                "embed": "rId17,"
+            }
+        ],
+        "para_index": 69
+    },
+    {
+        "para_content": [],
+        "para_index": 70
+    },
+    {
+        "para_content": [
+            {
+                "text": "The Kalpa Publications header will be different but use the same space."
+            },
+            {
+                "text": "In case there is not enough space for the header, the title of the paper will be only partially"
+            },
+            {
+                "text": "visible"
+            },
+            {
+                "text": ", as shown below:"
+            }
+        ],
+        "para_index": 71
+    },
+    {
+        "para_content": [],
+        "para_index": 72
+    },
+    {
+        "para_content": [
+            {},
+            {},
+            {
+                "embed": "rId18,"
+            }
+        ],
+        "para_index": 73
+    },
+    {
+        "para_content": [],
+        "para_index": 74
+    },
+    {
+        "para_content": [
+            {},
+            {}
+        ],
+        "para_index": 75
+    },
+    {
+        "para_content": [
+            {
+                "text": "Submitting Your"
+            },
+            {
+                "text": "Article"
+            },
+            {
+                "text": "T"
+            },
+            {
+                "text": "hrough"
+            },
+            {
+                "text": "EasyChair"
+            }
+        ],
+        "para_index": 76
+    },
+    {
+        "para_content": [
+            {
+                "text": "This section is intended only for the authors and editors of EasyChair proceedings"
+            },
+            {
+                "text": "volumes"
+            },
+            {
+                "text": ". When you prepare an article for"
+            },
+            {
+                "text": "such a volume"
+            },
+            {
+                "text": ", it should be submitted through EasyChair. EasyChair automates the submission process as much as possible and goes to a great"
+            },
+            {
+                "text": "depth"
+            },
+            {
+                "text": "to ensure that your article can be published and printed. Publication for EasyChair"
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "means much more than just putting a PDF of your article o"
+            },
+            {
+                "text": "nline. It collects meta-"
+            },
+            {
+                "text": "information about the article to classify it, find similar articles, make it easily searchable, and index it in vari"
+            },
+            {
+                "text": "ous Web services such as"
+            },
+            {
+                "text": "Microsoft Academic Search or"
+            },
+            {
+                "text": "DBLP."
+            }
+        ],
+        "para_index": 77
+    },
+    {
+        "para_content": [
+            {
+                "text": "Please note that, when your conference is hosted on EasyChair, your article can be submitted twice: first for"
+            },
+            {
+                "text": "the preliminary submission and"
+            },
+            {
+                "text": "reviewing and then for inclusion in the proceedings. You will see that EasyChair has different environments and different interface"
+            },
+            {
+                "text": "s"
+            },
+            {
+                "text": "for these two stages."
+            },
+            {
+                "text": "You can tell which one you are in by your role displayed in the upper left corner of the screen. For the submission phase, it should display \u201cauthor\u201d and for the proceedings stage"
+            },
+            {
+                "text": "\u201cproceedings author\u201d. These two environments will look like this:"
+            }
+        ],
+        "para_index": 78
+    },
+    {
+        "para_content": [],
+        "para_index": 79
+    },
+    {
+        "para_content": [
+            {},
+            {},
+            {
+                "embed": "rId19,"
+            }
+        ],
+        "para_index": 80
+    },
+    {
+        "para_content": [],
+        "para_index": 81
+    },
+    {
+        "para_content": [
+            {}
+        ],
+        "para_index": 82
+    },
+    {
+        "para_content": [],
+        "para_index": 83
+    },
+    {
+        "para_content": [
+            {},
+            {},
+            {
+                "embed": "rId20,"
+            }
+        ],
+        "para_index": 84
+    },
+    {
+        "para_content": [],
+        "para_index": 85
+    },
+    {
+        "para_content": [
+            {
+                "text": "If you are asked to submit your final version a"
+            },
+            {
+                "text": "nd you only see the author role"
+            },
+            {
+                "text": ", then something is very wrong and you should contact your conference organizers or volume editors."
+            }
+        ],
+        "para_index": 86
+    },
+    {
+        "para_content": [
+            {
+                "text": "Submitting the Article"
+            },
+            {
+                "text": "fo"
+            },
+            {
+                "text": "r"
+            },
+            {
+                "text": "Reviewing"
+            }
+        ],
+        "para_index": 87
+    },
+    {
+        "para_content": [
+            {
+                "text": "It is up to your conference in what format you submit your article. Most likely, they will simply ask for a PDF file. You will see the list of accepted file types on the EasyChair submission page. Nonetheless, if your conference will publish proceedings"
+            },
+            {
+                "text": "as an"
+            },
+            {
+                "text": "EPiC"
+            },
+            {
+                "text": "or a Kalpa"
+            },
+            {
+                "text": "volume, we recommend"
+            },
+            {
+                "text": "that you"
+            },
+            {
+                "text": "use the EasyChair style for the sub"
+            },
+            {
+                "text": "mission too. The reason is that otherwise, if your paper is accepted for the proceedings, you will have to reformat it using the EasyChair style"
+            },
+            {
+                "text": "and this can be time-consuming."
+            },
+            {
+                "text": "If you need to submit a PDF document, you can convert your"
+            },
+            {
+                "text": "docx"
+            },
+            {
+                "text": "document to PDF by choosing File->Save As\u2026 in your Word menu."
+            }
+        ],
+        "para_index": 88
+    },
+    {
+        "para_content": [
+            {}
+        ],
+        "para_index": 89
+    },
+    {
+        "para_content": [
+            {
+                "text": "EasyChair"
+            },
+            {
+                "text": "will ask you to submit two documents: the original"
+            },
+            {
+                "text": "docx"
+            },
+            {
+                "text": "document and the PDF document."
+            },
+            {
+                "text": "The PDF document must be obtained by saving your Word"
+            },
+            {
+                "text": "docx"
+            },
+            {
+                "text": "document as"
+            },
+            {
+                "text": "a"
+            },
+            {
+                "text": "PDF."
+            },
+            {
+                "text": null
+            },
+            {
+                "text": "After your submission"
+            },
+            {
+                "text": ","
+            },
+            {
+                "text": "EasyChair will show your PDF document with a frame around it to ensure that you did not change the style so that the content of your document"
+            },
+            {
+                "text": "goes"
+            },
+            {
+                "text": "out of the style margins. It will also ask you to enter some meta-data about your article, such as the title, list of authors, and the abstract.  This meta-data is very important since it will appear on the Web page where your article is published, therefore EasyChair will ask you to check that it is consistent with the data in the article itself."
+            }
+        ],
+        "para_index": 90
+    },
+    {
+        "para_content": [],
+        "para_index": 91
+    }
+]

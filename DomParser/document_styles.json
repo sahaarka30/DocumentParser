@@ -1,0 +1,87 @@
+[
+    {
+        "styles": {
+            "spacing": "5",
+            "size": "40",
+            "fonts": {
+                "ascii": "Times New Roman",
+                "eastAsiaTheme": "majorEastAsia",
+                "hAnsi": "Times New Roman",
+                "cstheme": "majorBidi"
+            }
+        },
+        "style_name": "Title"
+    },
+    {
+        "styles": {
+            "size": "20",
+            "fonts": {
+                "ascii": "Times New Roman",
+                "eastAsiaTheme": "majorEastAsia",
+                "hAnsi": "Times New Roman",
+                "cstheme": "majorBidi"
+            }
+        },
+        "style_name": "Abstract"
+    },
+    {
+        "styles": {
+            "size": "26",
+            "fonts": {
+                "ascii": "Times New Roman",
+                "eastAsiaTheme": null,
+                "hAnsi": "Times New Roman",
+                "cstheme": null
+            }
+        },
+        "style_name": "Authors"
+    },
+    {
+        "styles": {
+            "size": "28",
+            "fonts": {
+                "ascii": "Times New Roman",
+                "eastAsiaTheme": "majorEastAsia",
+                "hAnsi": "Times New Roman",
+                "cstheme": "majorBidi"
+            }
+        },
+        "style_name": "Subsection"
+    },
+    {
+        "styles": {
+            "size": "20",
+            "fonts": {
+                "ascii": "Times New Roman",
+                "eastAsiaTheme": "majorEastAsia",
+                "hAnsi": "Times New Roman",
+                "cstheme": "majorBidi"
+            }
+        },
+        "style_name": "Abstract title"
+    },
+    {
+        "styles": {
+            "size": "20",
+            "fonts": {
+                "ascii": "Times New Roman",
+                "eastAsiaTheme": null,
+                "hAnsi": "Times New Roman",
+                "cstheme": null
+            }
+        },
+        "style_name": "Institute"
+    },
+    {
+        "styles": {
+            "size": "32",
+            "fonts": {
+                "ascii": "Times New Roman",
+                "eastAsiaTheme": "majorEastAsia",
+                "hAnsi": "Times New Roman",
+                "cstheme": "majorBidi"
+            }
+        },
+        "style_name": "Section"
+    }
+]
